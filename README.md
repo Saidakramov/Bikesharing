@@ -1,4 +1,3 @@
-# Bikesharing1
 # Bikesharing
 
 ## Overview of the statistical analysis:
